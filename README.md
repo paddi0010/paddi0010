@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Patrick</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paddi0010&label=Profile%20views&color=0e75b6&style=flat" alt="paddi0010" /> </p>
 
-<!--
-**paddi0010/paddi0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Twitch Mini Games and Twitch Bots**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **kontakt.paddi001@gmai.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paddi0010&show_icons=true&locale=en&layout=compact" alt="paddi0010" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paddi0010&show_icons=true&locale=en" alt="paddi0010" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paddi0010&" alt="paddi0010" /></p>
