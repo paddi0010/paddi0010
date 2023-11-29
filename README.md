@@ -1,5 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Patrick</h1>
+<h3 algin="center">A hobbyistically Programmer from Germany!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paddi0010&label=Profile%20views&color=0e75b6&style=flat" alt="paddi0010" /> </p>
 
 - 🔭 I’m currently working on **Twitch Mini Games and Twitch Bots**
