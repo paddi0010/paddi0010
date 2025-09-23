@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paddi0010&label=Profile%20views&color=0e75b6&style=flat" alt="paddi0010" /> </p>
 
-- 🔭 I’m currently working on **Twitch Mini Games and Twitch Bots**
+- 🔭 I’m currently working on **OpenTwitchPoll**
 
 - 🌱 I’m currently learning **JavaScript**
 
